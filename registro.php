@@ -22,6 +22,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             </br>
             <p>contraseña</p>
             <input type="password" id='password' name='password' required>
+            </br>
+            <input type="checkbox" name="terminos"required>acepto terminos y condiciones ,para continuar
             <input type='submit' value='enviar'>
         </form>
         <?php
